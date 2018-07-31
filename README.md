@@ -20,3 +20,8 @@ git push heroku master
 # Open heroku app url
 heroku open
 ```
+
+If it succeeds it looks like this
+---------------------------------
+
+https://binary-heroku-example.herokuapp.com
